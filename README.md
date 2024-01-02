@@ -25,3 +25,10 @@ Using AutoTrain Advanced, advanced users can also control the hyperparameters us
 Everything else is the same as AutoTrain. You can use AutoTrain Advanced to train models for NLP, CV, Speech and Tabular tasks.
 
 We recommend using AutoTrain Advanced since it is faster, more flexible and will have more supported tasks and features in the future.
+
+# Project Reference
+
+Watched Abhishek Thankur's YT channel regarding Stable Diffusion XL (SDXL) DreamBooth: Easy, Fast & Free | Beginner Friendly. Attaching the link here for you guys. Checkout. You can also make this as well.
+
+![Link] (https://www.youtube.com/watch?v=gF078Lhnr94&ab_channel=AbhishekThakur)
+ 
